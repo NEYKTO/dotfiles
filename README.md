@@ -1,10 +1,12 @@
-# dotfiles
-# Custom personalizate Qtile
-custom Qtile for ArchLinux
+# Custom ArchLinux
+# Custom personal
 
-After instal Qtile:
+after insalling basic ArchLinux...
 
-	sudo pacman -S gdm kitty ----
+Install packeges nessesary
+
+	sudo pacaman -S aaaaaallllll-pakeges here
+	
 	
 	
 
