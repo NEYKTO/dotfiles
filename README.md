@@ -1,7 +1,6 @@
-# Custom ArchLinux
-# Custom personal
+# Custom Personalizated ArchLinux
 
-after insalling basic ArchLinux...
+After insalling basic ArchLinux
 
 Install packeges nessesary
 
