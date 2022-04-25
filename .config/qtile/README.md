@@ -83,7 +83,7 @@ the name of the theme you want in a file named ```./config.json```:
 }
 ```
 
-## Widgets
+# Widgets
 
 Wttr widget
 -
