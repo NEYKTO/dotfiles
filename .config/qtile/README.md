@@ -99,7 +99,7 @@ or
 curl -s 'wttr.in/{Madrid,Barcelona,Sevilla}?format=3'
 ```
 
-in file widget.py locate the widget widget.Wttr and put your city in the line location={'Barcelona':'Barcelona',},
+in file widget.py locate the widget `widget.Wttr` and put your city in the line `location={'Barcelona':'Barcelona',},`
 
 ```
 powerline('temp1','temp2'),
