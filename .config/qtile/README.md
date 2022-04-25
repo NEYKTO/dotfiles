@@ -80,4 +80,9 @@ the name of the theme you want in a file named ```./config.json```:
 ```json
 {
     "theme": "material-ocean"
-}
+}```
+
+## widgets
+
+
+
