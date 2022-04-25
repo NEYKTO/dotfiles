@@ -66,6 +66,9 @@ aloas ..='cd ..'
 
 alias nn='nano'
 
+alias tt="curl -s 'wttr.in/{Madrid,Barceloba,Reus}?format=3'"
+alias ttt="curl wttr.in/Barcelona"
+
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 # Plugins
