@@ -1,16 +1,13 @@
 from libqtile import widget
 from .theme import colors
 #import battery
-#from .seting import owm
-#from settings import owm`
+
 
 
 import subprocess
 from libqtile.widget import base
 
 
-#import batterya
-#import arcobattery
 import os
 import re
 import socket
@@ -168,41 +165,6 @@ primary_widgets = [
     widget.Clock(**base(bg='rosa',fg='blanco'), format='%d/%m-%H:%M:%S ', fontsize=16, font='iosevka regular'),
     powerline('dark', 'rosa'),
 
-#    widget.Battery(**base(bg='rojo', fg='verde'),
-#                  padding = 5,
-#                  ),
-
-
-
-#    widget.Battery(**base(bg='rojo', fg='blanco'),),
-
-#                widget.BatteryIcon(**battery_icon_settings),
-
-#    widget.NetworkStatus(**base(bg='oceano',fg='blanco'), scale=0.65),
-#widget.BatteryIcon(**base(bg='rojo', fg='verde'),
-#                    battery=0 + 1 ,
-#                    update_interval=10,
-#                    charge_char='^',
-#                    discharge_char='...', 
-#                    unknown_char='',
-#                    #font=fonts[1],
-#                    #fontsize=24,
-#                    low_foreground='blanco',
-#                    format="{percent:2.0%} {char}",
-#                    low_percentage=0.2,
-#                    notify_below=20,
-#                    ),
-#                    #                    update_interval=10,
-
-                
-
-
-
-
-
-
-
-
 
 ]
 
@@ -249,13 +211,7 @@ secondary_widgets = [
 	),
 
 
-
-
-
 ]
-
-
-
 
 
 
