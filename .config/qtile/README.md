@@ -97,7 +97,10 @@ or
 
 ```
 curl -s 'wttr.in/{Madrid,Barcelona,Sevilla}?format=3'
+
 ´´´
+
+
 
 
 
