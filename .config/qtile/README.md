@@ -87,6 +87,19 @@ the name of the theme you want in a file named ```./config.json```:
 
 Wttr widget
 -
+Exeple
+
+```
+ wttr.in/YOURCITY
+```
+
+or
+
+```
+curl -s 'wttr.in/{Madrid,Barcelona,Sevilla}?format=3'
+´´´
+
+
 
 
 
