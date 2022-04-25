@@ -97,9 +97,9 @@ or
 
 ```
 curl -s 'wttr.in/{Madrid,Barcelona,Sevilla}?format=3'
+```
 
-´´´
-
+in file widget.py locate the widget WTTR and put your city
 
 
 
