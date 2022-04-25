@@ -101,7 +101,17 @@ curl -s 'wttr.in/{Madrid,Barcelona,Sevilla}?format=3'
 
 in file widget.py locate the widget WTTR and put your city
 
-
+```
+powerline('temp1','temp2'),
+    widget.Wttr(**base(bg='temp1',fg='blanco'),
+        lang='es',
+	location={'Barcelona':'Barcelona', },
+	format=' H: %h  ',
+	units='m',
+	update_interval=30,
+	fontsize=16, font='iosevka regular',
+	),
+```
 
 
 
