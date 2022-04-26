@@ -2,9 +2,13 @@
 
 After insalling basic ArchLinux
 
+with this command you can check if is allready installed in your system `sudo pacman -Qsq name_conntent`
+
 Install packeges nessesary
 
-	sudo pacaman -S aaaaaallllll-pakeges here
+	sudo pacman -S alacritty code xterm kitty firefox rofi which nitrogen nodejs npm python python-pip ruby rubygems alsa-utils 
+	sudo pacman -S burpsuit locate neofetch ranger 
+	sudo pacman -S ttf-dejavu ttf-liberation noto-fonts noto-fonts-emoji
 	
 	
 	
