@@ -1,6 +1,6 @@
 # Qtile
 
-![Qtile](../../.screenshots/qtile.png)
+![Qtile](https://github.com/NEYKTO/qtile/raw/main/Captura.png)
 
 ***Language***
 - [🇪🇸 Español](./README.es.md)
